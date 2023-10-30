@@ -1,0 +1,12 @@
+{
+  "APP": {
+    "TITLE": "Password Generator",
+    "LABEL_LENGTH": "Enter Password Length",
+    "BUTTON_GENERATE": "Generate",
+    "BUTTON_RESET": "Reset",
+    "CHECKBOX_USE_LETTERS": "Use Letters",
+    "CHECKBOX_USE_NUMBERS": "Use Numbers",
+    "CHECKBOX_USE_SYMBOLS": "Use Symbols",
+    "OUTPUT": "Your Password"
+  }
+}
